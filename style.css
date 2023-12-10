@@ -1,0 +1,26 @@
+body{
+    background-color: aqua;
+
+}
+div{
+    background-color: lightblue;
+    width: auto;
+    height: 800px;
+    border-radius: 45px;
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+a{
+    color: red;
+}
+footer{
+    background-color: grey;
+    height: 75px;
+    border-radius: 45px;
+    width: auto;
+    text-align: center;
+    color: black;
+    margin-top: 40px;
+}
